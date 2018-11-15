@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [App.xaml.cs](./CS/DXSplashScreenSample/App.xaml.cs)
+* [MainWindow.xaml.cs](./CS/DXSplashScreenSample/MainWindow.xaml.cs)
+* [SplashScreenView.xaml](./CS/DXSplashScreenSample/SplashScreen/SplashScreenView.xaml)
+<!-- default file list end -->
 # How to manually invoke and close DXSplashScreen
 
 
